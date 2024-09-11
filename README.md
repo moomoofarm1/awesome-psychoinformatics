@@ -4,7 +4,7 @@
 
 ## Databases
 1. [Neuosynth](https://neurosynth.org/)
-2. [custom Neurosynth compose](https://compose.neurosynth.org/)
+2. [Neurosynth-compose](https://compose.neurosynth.org/)
 3. [Neurovault](https://neurovault.org/)
 4. [Connectome](https://www.humanconnectome.org/software/connectome-workbench)
 5. [Functional Connectome](https://github.com/NotaCS/Functionnectome)
