@@ -12,3 +12,4 @@
 7. [BCBtoolkit](https://storage.googleapis.com/bcblabweb/index.html)
 8. [OpenNeuro](https://openneuro.org/)
 9. [brainlife](https://brainlife.io/about/)
+10. [Clinica](https://aramislab.paris.inria.fr/clinica/docs/public/latest/)
