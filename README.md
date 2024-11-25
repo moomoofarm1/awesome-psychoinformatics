@@ -29,3 +29,4 @@
 ## Own-contributed tools
 1. [Topics package in R](https://cran.r-project.org/web/packages/topics/index.html)
 2. [r-text package in R](https://r-text.org/)
+3. [psyaitools in python mainly for psychoacoustics and AI](https://pypi.org/project/psyaitools/)
