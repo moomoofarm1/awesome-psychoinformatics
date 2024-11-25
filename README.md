@@ -24,3 +24,8 @@
 
 ## Background knowledge database
 1. [psychdb in Psychiatry](https://www.psychdb.com/home)
+
+
+## Own-contributed tools
+1. [Topics package in R](https://cran.r-project.org/web/packages/topics/index.html)
+2. [r-text package in R](https://r-text.org/)
