@@ -25,6 +25,13 @@
 ## Background knowledge database
 1. [psychdb in Psychiatry](https://www.psychdb.com/home)
 
+## Neural engeineering frameworks
+1. Eliasmith, C. (2005). A unified approach to building and controlling spiking attractor networks. Neural computation, 17(6), 1276-1314. Translationable package: [Nengo](https://www.nengo.ai/)
+
+## Neuromophic computing
+1. Domingos, P. (2012). A few useful things to know about machine learning. Communications of the ACM, 55(10), 78-87.
+2. Doya, K. (2000). Complementary roles of basal ganglia and cerebellum in learning and motor control. Current opinion in neurobiology, 10(6), 732-739.
+3. Friston, K., FitzGerald, T., Rigoli, F., Schwartenbeck, P., & Pezzulo, G. (2016). Active inference and learning. Neuroscience & Biobehavioral Reviews, 68, 86.
 
 ## Own-contributed tools
 1. [Topics package in R](https://cran.r-project.org/web/packages/topics/index.html)
