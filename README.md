@@ -36,7 +36,7 @@
 5. [Jirsa, V., & Sheheitli, H. (2022). Entropy, free energy, symmetry and dynamics in the brain. Journal of Physics: Complexity, 3(1), 015007.](https://iopscience.iop.org/article/10.1088/2632-072X/ac4bec/meta)
 
 ## Neural manifold existence from empirical findings
-See the [list](https://github.com/moomoofarm1/awesome_neural_manifolds)
+See the articles in a different [list](https://github.com/moomoofarm1/awesome_neural_manifolds).
 
 ## Neuromophic computing
 1. Domingos, P. (2012). A few useful things to know about machine learning. Communications of the ACM, 55(10), 78-87.
