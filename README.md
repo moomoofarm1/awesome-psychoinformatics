@@ -35,6 +35,9 @@
 4. [Gorban, A. N., & Tyukin, I. Y. (2018). Blessing of dimensionality: mathematical foundations of the statistical physics of data. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 376(2118), 20170237.](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2017.0237)
 5. [Jirsa, V., & Sheheitli, H. (2022). Entropy, free energy, symmetry and dynamics in the brain. Journal of Physics: Complexity, 3(1), 015007.](https://iopscience.iop.org/article/10.1088/2632-072X/ac4bec/meta)
 
+## Neural manifold existence from empirical findings
+See the [list](https://github.com/moomoofarm1/awesome_neural_manifolds)
+
 ## Neuromophic computing
 1. Domingos, P. (2012). A few useful things to know about machine learning. Communications of the ACM, 55(10), 78-87.
 2. Doya, K. (2000). Complementary roles of basal ganglia and cerebellum in learning and motor control. Current opinion in neurobiology, 10(6), 732-739.
