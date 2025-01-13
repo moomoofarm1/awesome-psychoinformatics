@@ -14,7 +14,7 @@
 9. [brainlife](https://brainlife.io/about/)
 10. [Clinica](https://aramislab.paris.inria.fr/clinica/docs/public/latest/)
 
-## Analysis Tools in neuroimaging & neurophysiology
+## Analysis Tools in neuroimaging & neuropsychology
 1. [fMRIPrep](https://fmriprep.org/en/stable/)
 
 
