@@ -29,13 +29,14 @@
 1. Eliasmith, C. (2005). A unified approach to building and controlling spiking attractor networks. Neural computation, 17(6), 1276-1314. Translationable package: [Nengo](https://www.nengo.ai/)
 
 ## Neural manifold theory
-1. [Friston, K. (2010). The free-energy principle: a unified brain theory?. Nature reviews neuroscience, 11(2), 127-138.](https://www.fil.ion.ucl.ac.uk/~karl/The%20free-energy%20principle%20A%20unified%20brain%20theory.pdf)
-2. [Lei, N., An, D., Guo, Y., Su, K., Liu, S., Luo, Z., ... & Gu, X. (2020). A geometric understanding of deep learning. Engineering, 6(3), 361-374.](https://www.sciencedirect.com/science/article/pii/S2095809919302279)
-3. [Li, Y., Michaud, E. J., Baek, D. D., Engels, J., Sun, X., & Tegmark, M. (2024). The Geometry of Concepts: Sparse Autoencoder Feature Structure. arXiv preprint arXiv:2410.19750.](https://arxiv.org/abs/2410.19750)
-4. [Gorban, A. N., & Tyukin, I. Y. (2018). Blessing of dimensionality: mathematical foundations of the statistical physics of data. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 376(2118), 20170237.](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2017.0237)
-5. [Jirsa, V. (2020). Structured flows on manifolds as guiding concepts in brain science. Selbstorganisation–ein Paradigma für die Humanwissenschaften: Zu Ehren von Günter Schiepek und seiner Forschung zu Komplexität und Dynamik in der Psychologie, 89-102.](https://link.springer.com/chapter/10.1007/978-3-658-29906-4_6)
-6. [Jirsa, V., & Sheheitli, H. (2022). Entropy, free energy, symmetry and dynamics in the brain. Journal of Physics: Complexity, 3(1), 015007.](https://iopscience.iop.org/article/10.1088/2632-072X/ac4bec/meta)
-7. [Awesome maths resources in neural geometry](https://github.com/moomoofarm1/awesome-neural-geometry)
+1. [Behrens, T. E., Muller, T. H., Whittington, J. C., Mark, S., Baram, A. B., Stachenfeld, K. L., & Kurth-Nelson, Z. (2018). What is a cognitive map? Organizing knowledge for flexible behavior. Neuron, 100(2), 490-509.](https://www.cell.com/neuron/fulltext/S0896-6273(18)30856-0)
+2. [Friston, K. (2010). The free-energy principle: a unified brain theory?. Nature reviews neuroscience, 11(2), 127-138.](https://www.fil.ion.ucl.ac.uk/~karl/The%20free-energy%20principle%20A%20unified%20brain%20theory.pdf)
+3. [Lei, N., An, D., Guo, Y., Su, K., Liu, S., Luo, Z., ... & Gu, X. (2020). A geometric understanding of deep learning. Engineering, 6(3), 361-374.](https://www.sciencedirect.com/science/article/pii/S2095809919302279)
+4. [Li, Y., Michaud, E. J., Baek, D. D., Engels, J., Sun, X., & Tegmark, M. (2024). The Geometry of Concepts: Sparse Autoencoder Feature Structure. arXiv preprint arXiv:2410.19750.](https://arxiv.org/abs/2410.19750)
+5. [Gorban, A. N., & Tyukin, I. Y. (2018). Blessing of dimensionality: mathematical foundations of the statistical physics of data. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 376(2118), 20170237.](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2017.0237)
+6. [Jirsa, V. (2020). Structured flows on manifolds as guiding concepts in brain science. Selbstorganisation–ein Paradigma für die Humanwissenschaften: Zu Ehren von Günter Schiepek und seiner Forschung zu Komplexität und Dynamik in der Psychologie, 89-102.](https://link.springer.com/chapter/10.1007/978-3-658-29906-4_6)
+7. [Jirsa, V., & Sheheitli, H. (2022). Entropy, free energy, symmetry and dynamics in the brain. Journal of Physics: Complexity, 3(1), 015007.](https://iopscience.iop.org/article/10.1088/2632-072X/ac4bec/meta)
+8. [Awesome maths resources in neural geometry](https://github.com/moomoofarm1/awesome-neural-geometry)
 
 ## Neural manifold existence from empirical findings
 See the articles in a different [list](https://github.com/moomoofarm1/awesome_neural_manifolds).
