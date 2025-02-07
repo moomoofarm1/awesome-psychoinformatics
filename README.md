@@ -2,6 +2,17 @@
 
 <b>Table of Contents</b>
 
+## Analysis Tools in neuroimaging & neuropsychology
+1. [fMRIPrep](https://fmriprep.org/en/stable/)
+
+
+## Analysis Tools in behavior measurement
+1. [Eyetracking fixation & saccade detection](https://github.com/psychoinformatics-de/remodnav)
+
+
+## Background knowledge database
+1. [psychdb in Psychiatry](https://www.psychdb.com/home)
+
 ## Databases
 1. [Neuosynth](https://neurosynth.org/)
 2. [Neurosynth-compose](https://compose.neurosynth.org/)
@@ -13,17 +24,6 @@
 8. [OpenNeuro](https://openneuro.org/)
 9. [brainlife](https://brainlife.io/about/)
 10. [Clinica](https://aramislab.paris.inria.fr/clinica/docs/public/latest/)
-
-## Analysis Tools in neuroimaging & neuropsychology
-1. [fMRIPrep](https://fmriprep.org/en/stable/)
-
-
-## Analysis Tools in behavior measurement
-1. [Eyetracking fixation & saccade detection](https://github.com/psychoinformatics-de/remodnav)
-
-
-## Background knowledge database
-1. [psychdb in Psychiatry](https://www.psychdb.com/home)
 
 ## Neural engeineering frameworks
 1. Eliasmith, C. (2005). A unified approach to building and controlling spiking attractor networks. Neural computation, 17(6), 1276-1314. Translationable package: [Nengo](https://www.nengo.ai/)
