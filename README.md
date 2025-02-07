@@ -56,3 +56,7 @@ See the articles in a different [list](https://github.com/moomoofarm1/awesome_ne
 
 ## Assess/Prediction(Prognostic) models
 1. [The Language-Based Assessment Model (L-BAM) Library](https://r-text.org/articles/LBAM.html), contributed by the curator of this list.
+
+## Demographic-level embeddings and database
+<i>This might be interesting to social psychologists</i>
+1. [Savcisens, G., Eliassi-Rad, T., Hansen, L. K., Mortensen, L. H., Lilleholt, L., Rogers, A., ... & Lehmann, S. (2024). Using sequences of life-events to predict human lives. Nature Computational Science, 4(1), 43-56.](https://www.nature.com/articles/s43588-023-00573-5)
