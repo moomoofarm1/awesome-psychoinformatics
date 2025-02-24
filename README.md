@@ -27,6 +27,7 @@
 
 ## Databases in theory
 1. [Delude, C. M. (2015). Deep phenotyping: the details of disease. Nature, 527(7576), S14-S15.](https://www.nature.com/articles/527S14a)
+2. [Wright, J. T., & Herzberg, M. C. (2021). Science for the next century: deep phenotyping. Journal of dental research, 100(8), 785-789.](https://journals.sagepub.com/doi/full/10.1177/00220345211001850)
 
 ## Neural engeineering frameworks
 1. Eliasmith, C. (2005). A unified approach to building and controlling spiking attractor networks. Neural computation, 17(6), 1276-1314. Translationable package: [Nengo](https://www.nengo.ai/)
