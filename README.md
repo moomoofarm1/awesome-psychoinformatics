@@ -1,4 +1,4 @@
-# awesome-psychoinformatics
+# Awesome-psychoinformatics
 
 <b>Table of Contents</b>
 
