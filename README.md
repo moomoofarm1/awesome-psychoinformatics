@@ -12,6 +12,7 @@
 
 ## Background knowledge database
 1. [psychdb in Psychiatry](https://www.psychdb.com/home)
+2. [Mayo Clinic Disease index](https://www.mayoclinic.org/zh-hans/diseases-conditions)
 
 ## Databases
 1. [Neuosynth](https://neurosynth.org/)
