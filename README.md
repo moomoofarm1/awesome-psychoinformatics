@@ -10,13 +10,13 @@
 1. [Eyetracking fixation & saccade detection](https://github.com/psychoinformatics-de/remodnav)
 
 
-## Background knowledge database
+## Databaseds of background knowledge
 1. [Mayo Clinic Disease conditions](https://www.mayoclinic.org/diseases-conditions) [CN]https://www.mayoclinic.org/zh-hans/diseases-conditions)
 2. [psychdb in Psychiatry](https://www.psychdb.com/home)
 3. [Standford Encyclopedia of Philosophy](https://plato.stanford.edu/) <i>Cognitive Science, Philosophy of Mind in Analytical Philosophy, and more.</i>
 4. [The Merck Manual of Medical Information](https://www.merckmanuals.com/home)
 
-## Databases
+## Databases of data
 1. [Neuosynth](https://neurosynth.org/)
 2. [Neurosynth-compose](https://compose.neurosynth.org/)
 3. [Neurovault](https://neurovault.org/)
