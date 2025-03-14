@@ -10,7 +10,7 @@
 1. [Eyetracking fixation & saccade detection](https://github.com/psychoinformatics-de/remodnav)
 
 
-## Databaseds of background knowledge
+## Databases of background knowledge
 1. [Mayo Clinic Disease conditions](https://www.mayoclinic.org/diseases-conditions) [CN]https://www.mayoclinic.org/zh-hans/diseases-conditions)
 2. [psychdb in Psychiatry](https://www.psychdb.com/home)
 3. [Standford Encyclopedia of Philosophy](https://plato.stanford.edu/) <i>Cognitive Science, Philosophy of Mind in Analytical Philosophy, and more.</i>
