@@ -36,16 +36,17 @@
 ## Neural engeineering frameworks
 1. Eliasmith, C. (2005). A unified approach to building and controlling spiking attractor networks. Neural computation, 17(6), 1276-1314. Translationable package: [Nengo](https://www.nengo.ai/)
 
-## Neural manifold theory
+## Neural manifold theories
 1. [Behrens, T. E., Muller, T. H., Whittington, J. C., Mark, S., Baram, A. B., Stachenfeld, K. L., & Kurth-Nelson, Z. (2018). What is a cognitive map? Organizing knowledge for flexible behavior. Neuron, 100(2), 490-509.](https://www.cell.com/neuron/fulltext/S0896-6273(18)30856-0) <i>shows concepts and thoughts follow geometric, low-dimensional representations, supporting the reduced-dimension hypothesis</i>
 2. [Claudi, F., & Branco, T. (2022). Differential geometry methods for constructing manifold-targeted recurrent neural networks. Neural Computation, 34(8), 1790-1811.](https://direct.mit.edu/neco/article-abstract/34/8/1790/111783/Differential-Geometry-Methods-for-Constructing) 
 3. [Dabaghian, Y., Brandt, V. L., & Frank, L. M. (2014). Reconceiving the hippocampal map as a topological template. Elife, 3, e03476.](https://elifesciences.org/articles/03476)
 4. [Friston, K. (2010). The free-energy principle: a unified brain theory?. Nature reviews neuroscience, 11(2), 127-138.](https://www.fil.ion.ucl.ac.uk/~karl/The%20free-energy%20principle%20A%20unified%20brain%20theory.pdf)
-5. [Lei, N., An, D., Guo, Y., Su, K., Liu, S., Luo, Z., ... & Gu, X. (2020). A geometric understanding of deep learning. Engineering, 6(3), 361-374.](https://www.sciencedirect.com/science/article/pii/S2095809919302279)
-6. [Li, Y., Michaud, E. J., Baek, D. D., Engels, J., Sun, X., & Tegmark, M. (2024). The Geometry of Concepts: Sparse Autoencoder Feature Structure. arXiv preprint arXiv:2410.19750.](https://arxiv.org/abs/2410.19750)
-7. [Gorban, A. N., & Tyukin, I. Y. (2018). Blessing of dimensionality: mathematical foundations of the statistical physics of data. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 376(2118), 20170237.](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2017.0237)
-8. [Whittington, J. C., Muller, T. H., Mark, S., Chen, G., Barry, C., Burgess, N., & Behrens, T. E. (2020). The Tolman-Eichenbaum machine: unifying space and relational memory through generalization in the hippocampal formation. Cell, 183(5), 1249-1263.](https://www.sciencedirect.com/science/article/pii/S009286742031388X)
-9. [Awesome maths resources in neural geometry](https://github.com/moomoofarm1/awesome-neural-geometry)
+5. [Gorban, A. N., & Tyukin, I. Y. (2018). Blessing of dimensionality: mathematical foundations of the statistical physics of data. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 376(2118), 20170237.](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2017.0237)
+6. [Lei, N., An, D., Guo, Y., Su, K., Liu, S., Luo, Z., ... & Gu, X. (2020). A geometric understanding of deep learning. Engineering, 6(3), 361-374.](https://www.sciencedirect.com/science/article/pii/S2095809919302279)
+7. [Li, Y., Michaud, E. J., Baek, D. D., Engels, J., Sun, X., & Tegmark, M. (2024). The Geometry of Concepts: Sparse Autoencoder Feature Structure. arXiv preprint arXiv:2410.19750.](https://arxiv.org/abs/2410.19750)
+8. [Tuerlinckx, F. (2024). A geometrical perspective on parametric psychometric models. arXiv preprint arXiv:2410.12450.](https://arxiv.org/abs/2410.12450)
+9. [Whittington, J. C., Muller, T. H., Mark, S., Chen, G., Barry, C., Burgess, N., & Behrens, T. E. (2020). The Tolman-Eichenbaum machine: unifying space and relational memory through generalization in the hippocampal formation. Cell, 183(5), 1249-1263.](https://www.sciencedirect.com/science/article/pii/S009286742031388X)
+10. [Awesome maths resources in neural geometry](https://github.com/moomoofarm1/awesome-neural-geometry)
 
 ## Neural manifold existence from empirical findings
 See the articles in a different [list](https://github.com/moomoofarm1/awesome_neural_manifolds).
