@@ -46,7 +46,7 @@
 7. [Li, Y., Michaud, E. J., Baek, D. D., Engels, J., Sun, X., & Tegmark, M. (2024). The Geometry of Concepts: Sparse Autoencoder Feature Structure. arXiv preprint arXiv:2410.19750.](https://arxiv.org/abs/2410.19750)
 8. [Tuerlinckx, F. (2024). A geometrical perspective on parametric psychometric models. arXiv preprint arXiv:2410.12450.](https://arxiv.org/abs/2410.12450)
 9. [Whittington, J. C., Muller, T. H., Mark, S., Chen, G., Barry, C., Burgess, N., & Behrens, T. E. (2020). The Tolman-Eichenbaum machine: unifying space and relational memory through generalization in the hippocampal formation. Cell, 183(5), 1249-1263.](https://www.sciencedirect.com/science/article/pii/S009286742031388X)
-10. [Awesome maths resources in neural geometry](https://github.com/moomoofarm1/awesome-neural-geometry)
+10. [MISC-Math list-Awesome maths resources in neural geometry](https://github.com/moomoofarm1/awesome-neural-geometry)
 
 ## Neural manifold existence from empirical findings
 See the articles in a different [list](https://github.com/moomoofarm1/awesome_neural_manifolds).
