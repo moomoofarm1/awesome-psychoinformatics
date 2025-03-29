@@ -47,10 +47,11 @@
 7. [Har-Shemesh, O., Quax, R., Lansing, J. S., & Sloot, P. M. (2020). Questionnaire data analysis using information geometry. Scientific Reports, 10(1), 8633.](https://www.nature.com/articles/s41598-020-63760-8)
 8. [Lei, N., An, D., Guo, Y., Su, K., Liu, S., Luo, Z., ... & Gu, X. (2020). A geometric understanding of deep learning. Engineering, 6(3), 361-374.](https://www.sciencedirect.com/science/article/pii/S2095809919302279)
 9. [Li, Y., Michaud, E. J., Baek, D. D., Engels, J., Sun, X., & Tegmark, M. (2024). The Geometry of Concepts: Sparse Autoencoder Feature Structure. arXiv preprint arXiv:2410.19750.](https://arxiv.org/abs/2410.19750)
-10. [Mitchell-Heggs, R., Prado, S., Gava, G. P., Go, M. A., & Schultz, S. R. (2023). Neural manifold analysis of brain circuit dynamics in health and disease. Journal of computational neuroscience, 51(1), 1-21.](https://link.springer.com/article/10.1007/s10827-022-00839-3)
-11. [Tuerlinckx, F. (2024). A geometrical perspective on parametric psychometric models. arXiv preprint arXiv:2410.12450.](https://arxiv.org/abs/2410.12450)
-12. [Whittington, J. C., Muller, T. H., Mark, S., Chen, G., Barry, C., Burgess, N., & Behrens, T. E. (2020). The Tolman-Eichenbaum machine: unifying space and relational memory through generalization in the hippocampal formation. Cell, 183(5), 1249-1263.](https://www.sciencedirect.com/science/article/pii/S009286742031388X)
-13. [MISC-Math list-Awesome maths resources in neural geometry](https://github.com/moomoofarm1/awesome-neural-geometry)
+10. [Meilă, M., & Zhang, H. (2024). Manifold learning: What, how, and why. Annual Review of Statistics and Its Application, 11(1), 393-417.](https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-040522-115238?crawler=true)
+11. [Mitchell-Heggs, R., Prado, S., Gava, G. P., Go, M. A., & Schultz, S. R. (2023). Neural manifold analysis of brain circuit dynamics in health and disease. Journal of computational neuroscience, 51(1), 1-21.](https://link.springer.com/article/10.1007/s10827-022-00839-3)
+12. [Tuerlinckx, F. (2024). A geometrical perspective on parametric psychometric models. arXiv preprint arXiv:2410.12450.](https://arxiv.org/abs/2410.12450)
+13. [Whittington, J. C., Muller, T. H., Mark, S., Chen, G., Barry, C., Burgess, N., & Behrens, T. E. (2020). The Tolman-Eichenbaum machine: unifying space and relational memory through generalization in the hippocampal formation. Cell, 183(5), 1249-1263.](https://www.sciencedirect.com/science/article/pii/S009286742031388X)
+14. [MISC-Math list-Awesome maths resources in neural geometry](https://github.com/moomoofarm1/awesome-neural-geometry)
 
 ## Neural manifold existence from empirical findings
 See the articles in a different [list](https://github.com/moomoofarm1/awesome_neural_manifolds).
