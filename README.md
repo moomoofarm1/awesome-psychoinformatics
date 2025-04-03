@@ -66,7 +66,7 @@ See the articles in a different [list](https://github.com/moomoofarm1/awesome_ne
 4. [Jirsa, V. (2020). Structured flows on manifolds as guiding concepts in brain science. Selbstorganisation–ein Paradigma für die Humanwissenschaften: Zu Ehren von Günter Schiepek und seiner Forschung zu Komplexität und Dynamik in der Psychologie, 89-102.](https://link.springer.com/chapter/10.1007/978-3-658-29906-4_6)
 5. [Jirsa, V., & Sheheitli, H. (2022). Entropy, free energy, symmetry and dynamics in the brain. Journal of Physics: Complexity, 3(1), 015007.](https://iopscience.iop.org/article/10.1088/2632-072X/ac4bec/meta)
 
-## Neuromorphic computing (brain inspired structures)
+## Neuromorphic computing (foundational brain-inspired neural structures)
 1. [Lechner, M., Hasani, R., Amini, A., Henzinger, T. A., Rus, D., & Grosu, R. (2020). Neural circuit policies enabling auditable autonomy. Nature Machine Intelligence, 2(10), 642-652.](https://www.nature.com/articles/s42256-020-00237-3) <i>liquid network</i>
 2. To be continued ...
 
