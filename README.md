@@ -68,7 +68,7 @@ See the articles in a different [list](https://github.com/moomoofarm1/awesome_ne
 
 ## Neuromorphic computing (foundational brain-inspired neural structures)
 1. [Lechner, M., Hasani, R., Amini, A., Henzinger, T. A., Rus, D., & Grosu, R. (2020). Neural circuit policies enabling auditable autonomy. Nature Machine Intelligence, 2(10), 642-652.](https://www.nature.com/articles/s42256-020-00237-3) <i>liquid network</i>
-2. To be continued ...
+2. [Marr, D., & Poggio, T. (1976). From understanding computation to understanding neural circuitry.](https://dspace.mit.edu/handle/1721.1/5782)
 
 
 ## Own-contributed tools
