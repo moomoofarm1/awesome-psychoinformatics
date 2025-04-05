@@ -67,8 +67,9 @@ See the articles in a different [list](https://github.com/moomoofarm1/awesome_ne
 5. [Jirsa, V., & Sheheitli, H. (2022). Entropy, free energy, symmetry and dynamics in the brain. Journal of Physics: Complexity, 3(1), 015007.](https://iopscience.iop.org/article/10.1088/2632-072X/ac4bec/meta)
 
 ## Neuromorphic computing (foundational brain-inspired neural structures)
-1. [Lechner, M., Hasani, R., Amini, A., Henzinger, T. A., Rus, D., & Grosu, R. (2020). Neural circuit policies enabling auditable autonomy. Nature Machine Intelligence, 2(10), 642-652.](https://www.nature.com/articles/s42256-020-00237-3) <i>liquid network</i>
-2. [Marr, D., & Poggio, T. (1976). From understanding computation to understanding neural circuitry.](https://dspace.mit.edu/handle/1721.1/5782)
+1. [Hasani, R., Lechner, M., Amini, A., Liebenwein, L., Ray, A., Tschaikowski, M., ... & Rus, D. (2022). Closed-form continuous-time neural networks. Nature Machine Intelligence, 4(11), 992-1003.](https://www.nature.com/articles/s42256-022-00556-7)
+2. [Lechner, M., Hasani, R., Amini, A., Henzinger, T. A., Rus, D., & Grosu, R. (2020). Neural circuit policies enabling auditable autonomy. Nature Machine Intelligence, 2(10), 642-652.](https://www.nature.com/articles/s42256-020-00237-3) <i>liquid network</i>
+3. [Marr, D., & Poggio, T. (1976). From understanding computation to understanding neural circuitry.](https://dspace.mit.edu/handle/1721.1/5782)
 
 
 ## Own-contributed tools
