@@ -75,8 +75,8 @@ See the articles in a different [list](https://github.com/moomoofarm1/awesome_ne
 4. [Friston, K., FitzGerald, T., Rigoli, F., Schwartenbeck, P., & Pezzulo, G. (2016). Active inference and learning. Neuroscience & Biobehavioral Reviews, 68, 86.](https://www.sciencedirect.com/science/article/pii/S0149763416301336)
 5. [Jirsa, V. (2020). Structured flows on manifolds as guiding concepts in brain science. Selbstorganisation–ein Paradigma für die Humanwissenschaften: Zu Ehren von Günter Schiepek und seiner Forschung zu Komplexität und Dynamik in der Psychologie, 89-102.](https://link.springer.com/chapter/10.1007/978-3-658-29906-4_6)
 6. [Jirsa, V., & Sheheitli, H. (2022). Entropy, free energy, symmetry and dynamics in the brain. Journal of Physics: Complexity, 3(1), 015007.](https://iopscience.iop.org/article/10.1088/2632-072X/ac4bec/meta)
-7. [Liu, B., Li, X., Zhang, J., Wang, J., He, T., Hong, S., ... & Wu, C. (2025). Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems. arXiv preprint arXiv:2504.01990.](https://arxiv.org/abs/2504.01990)
-8. [Millidge, B., Song, Y., Salvatori, T., Lukasiewicz, T., & Bogacz, R. (2022). A theoretical framework for inference and learning in predictive coding networks. arXiv preprint arXiv:2207.12316.](https://arxiv.org/abs/2207.12316)
+7. [Liu, B., Li, X., Zhang, J., Wang, J., He, T., Hong, S., ... & Wu, C. (2025). Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems. arXiv preprint arXiv:2504.01990.](https://arxiv.org/abs/2504.01990) <i>brain-inspired agents building</i>
+8. [Millidge, B., Song, Y., Salvatori, T., Lukasiewicz, T., & Bogacz, R. (2022). A theoretical framework for inference and learning in predictive coding networks. arXiv preprint arXiv:2207.12316.](https://arxiv.org/abs/2207.12316) <i>MLP-based active inference and predictive coding</i>
 9. [Ren, J., & Xia, F. (2024). Brain-inspired Artificial Intelligence: A Comprehensive Review. arXiv preprint arXiv:2408.14811.](https://arxiv.org/abs/2408.14811)
 
 ## Own-contributed tools
