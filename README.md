@@ -69,7 +69,7 @@
 See the articles in a different [list](https://github.com/moomoofarm1/awesome_neural_manifolds).
 
 ## Neuromorphic computing
-1. [Furlong, P. M., & Eliasmith, C. (2023). Bridging cognitive architectures and generative models with vector symbolic algebras. In Proceedings of the AAAI Symposium Series (Vol. 2, No. 1, pp. 262-271).](https://ojs.aaai.org/index.php/AAAI-SS/article/view/27686)
+1. [Furlong, P. M., & Eliasmith, C. (2023). Bridging cognitive architectures and generative models with vector symbolic algebras. In Proceedings of the AAAI Symposium Series (Vol. 2, No. 1, pp. 262-271).](https://ojs.aaai.org/index.php/AAAI-SS/article/view/27686) <i>SPAUN</i>
 2. [Domingos, P. (2012). A few useful things to know about machine learning. Communications of the ACM, 55(10), 78-87.](https://dl.acm.org/doi/abs/10.1145/2347736.2347755)
 3. [Doya, K. (2000). Complementary roles of basal ganglia and cerebellum in learning and motor control. Current opinion in neurobiology, 10(6), 732-739.](https://www.sciencedirect.com/science/article/pii/S0959438800001537)
 4. [Friston, K., FitzGerald, T., Rigoli, F., Schwartenbeck, P., & Pezzulo, G. (2016). Active inference and learning. Neuroscience & Biobehavioral Reviews, 68, 86.](https://www.sciencedirect.com/science/article/pii/S0149763416301336)
