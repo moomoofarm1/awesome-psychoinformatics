@@ -9,8 +9,8 @@
 ## Analysis Tools in behavior measurement
 1. [Eyetracking fixation & saccade detection](https://github.com/psychoinformatics-de/remodnav)
 
-## Cognitive synthesis / Neural network function synthesis / Functional connectomics
-<i>The engineering field drawing insights from neural motifs.</i>
+## Cognitive synthesis / Neural network function synthesis
+<i>The engineering field drawing insights from neural motifs. Mainly from <b>Functional connectomics</b>.</i> 
 1. [Thiebaut de Schotten, M., & Forkel, S. J. (2022). The emergent properties of the connected brain. Science, 378(6619), 505-510.](https://www.science.org/doi/abs/10.1126/science.abq2591)
 
 
