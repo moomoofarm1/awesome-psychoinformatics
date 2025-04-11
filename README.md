@@ -38,6 +38,11 @@
 2. [Delude, C. M. (2015). Deep phenotyping: the details of disease. Nature, 527(7576), S14-S15.](https://www.nature.com/articles/527S14a)
 3. [Wright, J. T., & Herzberg, M. C. (2021). Science for the next century: deep phenotyping. Journal of dental research, 100(8), 785-789.](https://journals.sagepub.com/doi/full/10.1177/00220345211001850)
 
+## Foundational brain-inspired neural network structures)
+1. [Hasani, R., Lechner, M., Amini, A., Liebenwein, L., Ray, A., Tschaikowski, M., ... & Rus, D. (2022). Closed-form continuous-time neural networks. Nature Machine Intelligence, 4(11), 992-1003.](https://www.nature.com/articles/s42256-022-00556-7)
+2. [Lechner, M., Hasani, R., Amini, A., Henzinger, T. A., Rus, D., & Grosu, R. (2020). Neural circuit policies enabling auditable autonomy. Nature Machine Intelligence, 2(10), 642-652.](https://www.nature.com/articles/s42256-020-00237-3) <i>liquid network</i>
+3. [Marr, D., & Poggio, T. (1976). From understanding computation to understanding neural circuitry.](https://dspace.mit.edu/handle/1721.1/5782)
+
 ## Neural engeineering frameworks
 1. Eliasmith, C. (2005). A unified approach to building and controlling spiking attractor networks. Neural computation, 17(6), 1276-1314. Translationable package: [Nengo](https://www.nengo.ai/)
 
@@ -69,12 +74,6 @@ See the articles in a different [list](https://github.com/moomoofarm1/awesome_ne
 3. [Friston, K., FitzGerald, T., Rigoli, F., Schwartenbeck, P., & Pezzulo, G. (2016). Active inference and learning. Neuroscience & Biobehavioral Reviews, 68, 86.](https://www.sciencedirect.com/science/article/pii/S0149763416301336)
 4. [Jirsa, V. (2020). Structured flows on manifolds as guiding concepts in brain science. Selbstorganisation–ein Paradigma für die Humanwissenschaften: Zu Ehren von Günter Schiepek und seiner Forschung zu Komplexität und Dynamik in der Psychologie, 89-102.](https://link.springer.com/chapter/10.1007/978-3-658-29906-4_6)
 5. [Jirsa, V., & Sheheitli, H. (2022). Entropy, free energy, symmetry and dynamics in the brain. Journal of Physics: Complexity, 3(1), 015007.](https://iopscience.iop.org/article/10.1088/2632-072X/ac4bec/meta)
-
-## Neuromorphic computing (foundational brain-inspired neural structures)
-1. [Hasani, R., Lechner, M., Amini, A., Liebenwein, L., Ray, A., Tschaikowski, M., ... & Rus, D. (2022). Closed-form continuous-time neural networks. Nature Machine Intelligence, 4(11), 992-1003.](https://www.nature.com/articles/s42256-022-00556-7)
-2. [Lechner, M., Hasani, R., Amini, A., Henzinger, T. A., Rus, D., & Grosu, R. (2020). Neural circuit policies enabling auditable autonomy. Nature Machine Intelligence, 2(10), 642-652.](https://www.nature.com/articles/s42256-020-00237-3) <i>liquid network</i>
-3. [Marr, D., & Poggio, T. (1976). From understanding computation to understanding neural circuitry.](https://dspace.mit.edu/handle/1721.1/5782)
-
 
 ## Own-contributed tools
 1. [Topics package in R](https://cran.r-project.org/web/packages/topics/index.html)
