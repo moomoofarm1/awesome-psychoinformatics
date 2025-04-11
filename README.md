@@ -9,6 +9,9 @@
 ## Analysis Tools in behavior measurement
 1. [Eyetracking fixation & saccade detection](https://github.com/psychoinformatics-de/remodnav)
 
+## Cognitive synthesis / Neural network function synthesis / Functional connectomics
+1. [Thiebaut de Schotten, M., & Forkel, S. J. (2022). The emergent properties of the connected brain. Science, 378(6619), 505-510.](https://www.science.org/doi/abs/10.1126/science.abq2591)
+
 
 ## Databases of background knowledge
 1. [Mayo Clinic Disease conditions](https://www.mayoclinic.org/diseases-conditions) [CN]https://www.mayoclinic.org/zh-hans/diseases-conditions)
@@ -59,7 +62,7 @@
 ## Neural manifold existence from empirical findings
 See the articles in a different [list](https://github.com/moomoofarm1/awesome_neural_manifolds).
 
-## Neuromophic computing
+## Neuromorphic computing
 1. [Domingos, P. (2012). A few useful things to know about machine learning. Communications of the ACM, 55(10), 78-87.](https://dl.acm.org/doi/abs/10.1145/2347736.2347755)
 2. [Doya, K. (2000). Complementary roles of basal ganglia and cerebellum in learning and motor control. Current opinion in neurobiology, 10(6), 732-739.](https://www.sciencedirect.com/science/article/pii/S0959438800001537)
 3. [Friston, K., FitzGerald, T., Rigoli, F., Schwartenbeck, P., & Pezzulo, G. (2016). Active inference and learning. Neuroscience & Biobehavioral Reviews, 68, 86.](https://www.sciencedirect.com/science/article/pii/S0149763416301336)
