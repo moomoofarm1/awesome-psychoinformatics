@@ -80,9 +80,10 @@ See the articles in a different [list](https://github.com/moomoofarm1/awesome_ne
 9. [Ren, J., & Xia, F. (2024). Brain-inspired Artificial Intelligence: A Comprehensive Review. arXiv preprint arXiv:2408.14811.](https://arxiv.org/abs/2408.14811)
 
 ## Neuromorphic computing (cognition synthesis)
-This section draws inspirations from functional circuits in connectomics research to use artificial neural networks to synthesis the target brain/psychological function. Theoretical underpinning: 7 major networks in the brain, such as task positive network, and default brain network. The goal is to form a system similar to period table in chemistry to construct target functions?
+This section draws inspirations from functional circuits in [functional connectomics](https://arxiv.org/abs/2211.12935) research to use artificial neural networks to synthesis the target brain/psychological function. Theoretical underpinning: 7 major networks in the brain, such as task positive network, and default brain network. The goal is to form a system similar to period table in chemistry to construct target functions?
 1. [Zeng, Y., Zhao, Y., Bai, J., & Xu, B. (2018). Toward robot self-consciousness (ii): brain-inspired robot bodily self model for self-recognition. Cognitive Computation, 10, 307-320.](https://link.springer.com/article/10.1007/s12559-017-9505-1)
-2. [Zou, Z., Zhao, R., Wu, Y., Yang, Z., Tian, L., Wu, S., ... & Shi, L. (2020). A hybrid and scalable brain-inspired robotic platform. Scientific reports, 10(1), 18160.](https://www.nature.com/articles/s41598-020-73366-9)
+2. [Zeng, Y., Zhao, D., Zhao, F., Shen, G., Dong, Y., Lu, E., ... & Bi, W. (2023). Braincog: A spiking neural network based, brain-inspired cognitive intelligence engine for brain-inspired ai and brain simulation. Patterns, 4(8).](https://www.cell.com/patterns/fulltext/S2666-3899(23)00144-7)
+3. [Zou, Z., Zhao, R., Wu, Y., Yang, Z., Tian, L., Wu, S., ... & Shi, L. (2020). A hybrid and scalable brain-inspired robotic platform. Scientific reports, 10(1), 18160.](https://www.nature.com/articles/s41598-020-73366-9)
 
 ## Own-contributed tools
 1. [Topics package in R](https://cran.r-project.org/web/packages/topics/index.html)
