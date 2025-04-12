@@ -80,7 +80,7 @@ See the articles in a different [list](https://github.com/moomoofarm1/awesome_ne
 9. [Ren, J., & Xia, F. (2024). Brain-inspired Artificial Intelligence: A Comprehensive Review. arXiv preprint arXiv:2408.14811.](https://arxiv.org/abs/2408.14811)
 
 ## Neuromorphic computing (cognition synthesis)
-This section draws inspirations from functional circuits in connectomics research to use artificial neural networks to synthesis the target brain/psychological function. Theoretical underpinning: 7 major networks in the brain, such as task positive network, and default brain network.
+This section draws inspirations from functional circuits in connectomics research to use artificial neural networks to synthesis the target brain/psychological function. Theoretical underpinning: 7 major networks in the brain, such as task positive network, and default brain network. The goal is to form a system similar to period table in chemistry to construct target functions?
 1. [Zeng, Y., Zhao, Y., Bai, J., & Xu, B. (2018). Toward robot self-consciousness (ii): brain-inspired robot bodily self model for self-recognition. Cognitive Computation, 10, 307-320.](https://link.springer.com/article/10.1007/s12559-017-9505-1)
 2. [Zou, Z., Zhao, R., Wu, Y., Yang, Z., Tian, L., Wu, S., ... & Shi, L. (2020). A hybrid and scalable brain-inspired robotic platform. Scientific reports, 10(1), 18160.](https://www.nature.com/articles/s41598-020-73366-9)
 
