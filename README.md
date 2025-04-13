@@ -69,7 +69,7 @@
 ## Neural manifold existence from empirical findings
 See the articles in a different [list](https://github.com/moomoofarm1/awesome_neural_manifolds).
 
-## Neuromorphic computing (birds-eye view)
+## Brain-inspired computing (birds-eye view)
 1. [Domingos, P. (2012). A few useful things to know about machine learning. Communications of the ACM, 55(10), 78-87.](https://dl.acm.org/doi/abs/10.1145/2347736.2347755)
 2. [Doya, K. (2000). Complementary roles of basal ganglia and cerebellum in learning and motor control. Current opinion in neurobiology, 10(6), 732-739.](https://www.sciencedirect.com/science/article/pii/S0959438800001537)
 3. [Furlong, P. M., & Eliasmith, C. (2023). Bridging cognitive architectures and generative models with vector symbolic algebras. In Proceedings of the AAAI Symposium Series (Vol. 2, No. 1, pp. 262-271).](https://ojs.aaai.org/index.php/AAAI-SS/article/view/27686) <i>SPAUN</i>
@@ -80,7 +80,7 @@ See the articles in a different [list](https://github.com/moomoofarm1/awesome_ne
 8. [Millidge, B., Song, Y., Salvatori, T., Lukasiewicz, T., & Bogacz, R. (2022). A theoretical framework for inference and learning in predictive coding networks. arXiv preprint arXiv:2207.12316.](https://arxiv.org/abs/2207.12316) <i>MLP-based active inference and predictive coding</i>
 9. [Ren, J., & Xia, F. (2024). Brain-inspired Artificial Intelligence: A Comprehensive Review. arXiv preprint arXiv:2408.14811.](https://arxiv.org/abs/2408.14811)
 
-## Neuromorphic computing (cognition synthesis)
+## Neuromorphic computing / cognition synthesis
 This section draws inspirations from functional circuits in [functional connectomics](https://arxiv.org/abs/2211.12935) research to use artificial neural networks to synthesis the target brain/psychological function. Theoretical underpinning: 7 major networks in the brain, such as task positive network, and default brain network. The goal is to form a system similar to period table in chemistry to construct target functions?
 1. [Zeng, Y., Zhao, Y., Bai, J., & Xu, B. (2018). Toward robot self-consciousness (ii): brain-inspired robot bodily self model for self-recognition. Cognitive Computation, 10, 307-320.](https://link.springer.com/article/10.1007/s12559-017-9505-1)
 2. [Zeng, Y., Zhao, D., Zhao, F., Shen, G., Dong, Y., Lu, E., ... & Bi, W. (2023). Braincog: A spiking neural network based, brain-inspired cognitive intelligence engine for brain-inspired ai and brain simulation. Patterns, 4(8).](https://www.cell.com/patterns/fulltext/S2666-3899(23)00144-7)
