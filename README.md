@@ -70,9 +70,9 @@
 See the articles in a different [list](https://github.com/moomoofarm1/awesome_neural_manifolds).
 
 ## Neuromorphic computing (birds-eye view)
-1. [Furlong, P. M., & Eliasmith, C. (2023). Bridging cognitive architectures and generative models with vector symbolic algebras. In Proceedings of the AAAI Symposium Series (Vol. 2, No. 1, pp. 262-271).](https://ojs.aaai.org/index.php/AAAI-SS/article/view/27686) <i>SPAUN</i>
-2. [Domingos, P. (2012). A few useful things to know about machine learning. Communications of the ACM, 55(10), 78-87.](https://dl.acm.org/doi/abs/10.1145/2347736.2347755)
-3. [Doya, K. (2000). Complementary roles of basal ganglia and cerebellum in learning and motor control. Current opinion in neurobiology, 10(6), 732-739.](https://www.sciencedirect.com/science/article/pii/S0959438800001537)
+1. [Domingos, P. (2012). A few useful things to know about machine learning. Communications of the ACM, 55(10), 78-87.](https://dl.acm.org/doi/abs/10.1145/2347736.2347755)
+2. [Doya, K. (2000). Complementary roles of basal ganglia and cerebellum in learning and motor control. Current opinion in neurobiology, 10(6), 732-739.](https://www.sciencedirect.com/science/article/pii/S0959438800001537)
+3. [Furlong, P. M., & Eliasmith, C. (2023). Bridging cognitive architectures and generative models with vector symbolic algebras. In Proceedings of the AAAI Symposium Series (Vol. 2, No. 1, pp. 262-271).](https://ojs.aaai.org/index.php/AAAI-SS/article/view/27686) <i>SPAUN</i>
 4. [Friston, K., FitzGerald, T., Rigoli, F., Schwartenbeck, P., & Pezzulo, G. (2016). Active inference and learning. Neuroscience & Biobehavioral Reviews, 68, 86.](https://www.sciencedirect.com/science/article/pii/S0149763416301336)
 5. [Jirsa, V. (2020). Structured flows on manifolds as guiding concepts in brain science. Selbstorganisation–ein Paradigma für die Humanwissenschaften: Zu Ehren von Günter Schiepek und seiner Forschung zu Komplexität und Dynamik in der Psychologie, 89-102.](https://link.springer.com/chapter/10.1007/978-3-658-29906-4_6)
 6. [Jirsa, V., & Sheheitli, H. (2022). Entropy, free energy, symmetry and dynamics in the brain. Journal of Physics: Complexity, 3(1), 015007.](https://iopscience.iop.org/article/10.1088/2632-072X/ac4bec/meta)
