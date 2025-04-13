@@ -42,6 +42,7 @@
 1. [Hasani, R., Lechner, M., Amini, A., Liebenwein, L., Ray, A., Tschaikowski, M., ... & Rus, D. (2022). Closed-form continuous-time neural networks. Nature Machine Intelligence, 4(11), 992-1003.](https://www.nature.com/articles/s42256-022-00556-7)
 2. [Lechner, M., Hasani, R., Amini, A., Henzinger, T. A., Rus, D., & Grosu, R. (2020). Neural circuit policies enabling auditable autonomy. Nature Machine Intelligence, 2(10), 642-652.](https://www.nature.com/articles/s42256-020-00237-3) <i>liquid network</i>
 3. [Marr, D., & Poggio, T. (1976). From understanding computation to understanding neural circuitry.](https://dspace.mit.edu/handle/1721.1/5782)
+4. [van Zwol, B., Jefferson, R., & Broek, E. L. (2024). Predictive Coding Networks and Inference Learning: Tutorial and Survey. arXiv preprint arXiv:2407.04117.](https://arxiv.org/abs/2407.04117) <i>predictive coding network</i>
 
 ## Neural engeineering frameworks
 1. Eliasmith, C. (2005). A unified approach to building and controlling spiking attractor networks. Neural computation, 17(6), 1276-1314. Translationable package: [Nengo](https://www.nengo.ai/)
