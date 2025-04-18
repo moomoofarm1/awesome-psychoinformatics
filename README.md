@@ -91,6 +91,11 @@ From the machine learning community, similar concepts exist: neural modular netw
 4. [Zeng, Y., Zhao, D., Zhao, F., Shen, G., Dong, Y., Lu, E., ... & Bi, W. (2023). Braincog: A spiking neural network based, brain-inspired cognitive intelligence engine for brain-inspired ai and brain simulation. Patterns, 4(8).](https://www.cell.com/patterns/fulltext/S2666-3899(23)00144-7)
 5. [Zou, Z., Zhao, R., Wu, Y., Yang, Z., Tian, L., Wu, S., ... & Shi, L. (2020). A hybrid and scalable brain-inspired robotic platform. Scientific reports, 10(1), 18160.](https://www.nature.com/articles/s41598-020-73366-9)
 
+## Synthetic psychology (machine to form psychological functions)
+1. [Dawson, M. R. (2002, August). From embodied cognitive science to synthetic psychology. In Proceedings First IEEE International Conference on Cognitive Informatics (pp. 13-22). IEEE.](https://ieeexplore.ieee.org/abstract/document/1039276) <i>foundational work of this field</i>
+2. [Prescott, T. J., & Camilleri, D. (2018). The synthetic psychology of the self. In Cognitive architectures (pp. 85-104). Cham: Springer International Publishing.](https://link.springer.com/chapter/10.1007/978-3-319-97550-4_7)
+
+
 ## Own-contributed tools
 1. [Topics package in R](https://cran.r-project.org/web/packages/topics/index.html)
 2. [r-text package in R](https://r-text.org/)
