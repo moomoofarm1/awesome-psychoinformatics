@@ -42,8 +42,9 @@
 1. [Hasani, R., Lechner, M., Amini, A., Liebenwein, L., Ray, A., Tschaikowski, M., ... & Rus, D. (2022). Closed-form continuous-time neural networks. Nature Machine Intelligence, 4(11), 992-1003.](https://www.nature.com/articles/s42256-022-00556-7)
 2. [Lechner, M., Hasani, R., Amini, A., Henzinger, T. A., Rus, D., & Grosu, R. (2020). Neural circuit policies enabling auditable autonomy. Nature Machine Intelligence, 2(10), 642-652.](https://www.nature.com/articles/s42256-020-00237-3) <i>liquid network</i>
 3. [Marr, D., & Poggio, T. (1976). From understanding computation to understanding neural circuitry.](https://dspace.mit.edu/handle/1721.1/5782)
-4. [SIMPLE, M. BENCHMARKING PREDICTIVE CODING NETWORKS–MADE SIMPLE.](https://openreview.net/forum?id=sahQq2sH5x) <i>Scalability issue of predictive coding network compared to BP for deep network; Former learning algorithm is called [Equilibrium Propagation](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2017.00024/full)</i>
-5. [van Zwol, B., Jefferson, R., & Broek, E. L. (2024). Predictive Coding Networks and Inference Learning: Tutorial and Survey. arXiv preprint arXiv:2407.04117.](https://arxiv.org/abs/2407.04117) <i>predictive coding network</i>
+4. [Raju, R. V., Guntupalli, J. S., Zhou, G., Wendelken, C., Lázaro-Gredilla, M., & George, D. (2024). Space is a latent sequence: A theory of the hippocampus. Science Advances, 10(31), eadm8470.](https://www.science.org/doi/10.1126/sciadv.adm8470) <i>hipposcampus' role to prefrontal cortex [Frankland, P. W., & Bontempi, B. (2005). The organization of recent and remote memories. Nature reviews neuroscience, 6(2), 119-130.](https://www.nature.com/articles/nrn1607)</i>
+5. [SIMPLE, M. BENCHMARKING PREDICTIVE CODING NETWORKS–MADE SIMPLE.](https://openreview.net/forum?id=sahQq2sH5x) <i>Scalability issue of predictive coding network compared to BP for deep network; Former learning algorithm is called [Equilibrium Propagation](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2017.00024/full)</i>
+6. [van Zwol, B., Jefferson, R., & Broek, E. L. (2024). Predictive Coding Networks and Inference Learning: Tutorial and Survey. arXiv preprint arXiv:2407.04117.](https://arxiv.org/abs/2407.04117) <i>predictive coding network</i>
 
 ## Neural engeineering frameworks
 1. Eliasmith, C. (2005). A unified approach to building and controlling spiking attractor networks. Neural computation, 17(6), 1276-1314. Translationable package: [Nengo](https://www.nengo.ai/)
@@ -91,7 +92,7 @@ From the machine learning community, similar concepts exist: neural modular netw
 4. [Zeng, Y., Zhao, D., Zhao, F., Shen, G., Dong, Y., Lu, E., ... & Bi, W. (2023). Braincog: A spiking neural network based, brain-inspired cognitive intelligence engine for brain-inspired ai and brain simulation. Patterns, 4(8).](https://www.cell.com/patterns/fulltext/S2666-3899(23)00144-7)
 5. [Zou, Z., Zhao, R., Wu, Y., Yang, Z., Tian, L., Wu, S., ... & Shi, L. (2020). A hybrid and scalable brain-inspired robotic platform. Scientific reports, 10(1), 18160.](https://www.nature.com/articles/s41598-020-73366-9)
 
-## Synthetic psychology (machine to form psychological functions)
+## Synthetic psychology (machine to form psychological functions, methods only)
 1. [Dawson, M. R. (2002, August). From embodied cognitive science to synthetic psychology. In Proceedings First IEEE International Conference on Cognitive Informatics (pp. 13-22). IEEE.](https://ieeexplore.ieee.org/abstract/document/1039276) <i>foundational work of this field</i>
 2. [Prescott, T. J., & Camilleri, D. (2018). The synthetic psychology of the self. In Cognitive architectures (pp. 85-104). Cham: Springer International Publishing.](https://link.springer.com/chapter/10.1007/978-3-319-97550-4_7)
 
