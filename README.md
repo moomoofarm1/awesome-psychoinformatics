@@ -83,7 +83,7 @@ See the articles in a different [list](https://github.com/moomoofarm1/awesome_ne
 8. [Millidge, B., Song, Y., Salvatori, T., Lukasiewicz, T., & Bogacz, R. (2022). A theoretical framework for inference and learning in predictive coding networks. arXiv preprint arXiv:2207.12316.](https://arxiv.org/abs/2207.12316) <i>MLP-based active inference and predictive coding</i>
 9. [Ren, J., & Xia, F. (2024). Brain-inspired Artificial Intelligence: A Comprehensive Review. arXiv preprint arXiv:2408.14811.](https://arxiv.org/abs/2408.14811)
 
-## Neuromorphic computing (cognition synthesis)
+## Neuromorphic computing (cognition synthesis, including non-human species)
 This section draws inspirations from functional circuits in [functional connectomics](https://arxiv.org/abs/2211.12935) research to use artificial neural networks to synthesis the target brain/psychological function. Theoretical underpinning: main functional networks in the brain [Uddin et al., 2019](https://link.springer.com/article/10.1007/s10548-019-00744-6), such as task positive network, and default brain network. The goal is to form a system similar to period table in chemistry to construct target functions?
 From the machine learning community, similar concepts exist: neural modular network, or broader, modular learning. Modular learning is about (from LLM) structuring systems into components that specialize and possibly interact through shared or separate representations; Often, each module learns or uses its own latent representation, or they coordinate via a shared latent space. In the curator's words, latent representation learning such as Lecun's JEPA framework (a path towards autonomous machine intelligence).
 1. [Andreas, J., Rohrbach, M., Darrell, T., & Klein, D. (2016). Neural module networks. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 39-48).](https://openaccess.thecvf.com/content_cvpr_2016/html/Andreas_Neural_Module_Networks_CVPR_2016_paper.html)
@@ -96,6 +96,9 @@ From the machine learning community, similar concepts exist: neural modular netw
 ## Synthetic psychology (machine to form psychological functions, methods only)
 1. [Dawson, M. R. (2002, August). From embodied cognitive science to synthetic psychology. In Proceedings First IEEE International Conference on Cognitive Informatics (pp. 13-22). IEEE.](https://ieeexplore.ieee.org/abstract/document/1039276) <i>foundational work of this field</i>
 2. [Prescott, T. J., & Camilleri, D. (2018). The synthetic psychology of the self. In Cognitive architectures (pp. 85-104). Cham: Springer International Publishing.](https://link.springer.com/chapter/10.1007/978-3-319-97550-4_7)
+
+## Synthetic psychopathology
+
 
 
 ## Own-contributed tools
