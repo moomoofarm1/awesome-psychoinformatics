@@ -98,7 +98,8 @@ From the machine learning community, similar concepts exist: neural modular netw
 2. [Prescott, T. J., & Camilleri, D. (2018). The synthetic psychology of the self. In Cognitive architectures (pp. 85-104). Cham: Springer International Publishing.](https://link.springer.com/chapter/10.1007/978-3-319-97550-4_7)
 
 ## Synthetic psychopathology
-1. [Pio-Lopez, L., Kuchling, F., Tung, A., Pezzulo, G., & Levin, M. (2022). Active inference, morphogenesis, and computational psychiatry. Frontiers in computational neuroscience, 16, 988977.](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2022.988977/full)
+1. [Cao, Z., Xiao, X., Zhao, Y., Jiang, Y., Xie, C., Paillère-Martinot, M. L., ... & Zhu, C. (2023). Targeting the pathological network: Feasibility of network-based optimization of transcranial magnetic stimulation coil placement for treatment of psychiatric disorders. Frontiers in Neuroscience, 16, 1079078.](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.1079078/full)
+2. [Pio-Lopez, L., Kuchling, F., Tung, A., Pezzulo, G., & Levin, M. (2022). Active inference, morphogenesis, and computational psychiatry. Frontiers in computational neuroscience, 16, 988977.](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2022.988977/full)
 
 
 
