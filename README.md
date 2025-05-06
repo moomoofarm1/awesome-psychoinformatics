@@ -100,6 +100,7 @@ From the machine learning community, similar concepts exist: neural modular netw
 ## Synthetic psychopathology
 1. [Cao, Z., Xiao, X., Zhao, Y., Jiang, Y., Xie, C., Paillère-Martinot, M. L., ... & Zhu, C. (2023). Targeting the pathological network: Feasibility of network-based optimization of transcranial magnetic stimulation coil placement for treatment of psychiatric disorders. Frontiers in Neuroscience, 16, 1079078.](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.1079078/full)
 2. [Pio-Lopez, L., Kuchling, F., Tung, A., Pezzulo, G., & Levin, M. (2022). Active inference, morphogenesis, and computational psychiatry. Frontiers in computational neuroscience, 16, 988977.](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2022.988977/full)
+3. [Powers, A., Angelos, P. A., Bond, A., Farina, E., Fredericks, C., Gandhi, J., ... & Benrimoh, D. (2025). A computational account of the development and evolution of psychotic symptoms. Biological Psychiatry, 97(2), 117-127.](https://www.sciencedirect.com/science/article/pii/S0006322324015841)
 
 
 
