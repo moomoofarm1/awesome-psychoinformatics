@@ -16,6 +16,9 @@
 4. [Internet Encyclopedia of Philosophy and its Authors | ISSN 2161-0002](https://iep.utm.edu/) <i>Peer-Reviewed Enceclopedia of Philosophy, might contain more stable resources.</i>
 5. [The Merck Manual of Medical Information](https://www.merckmanuals.com/home)
 
+## Connectome & functional connectome papers
+1. [Hoy, J. L., & Farrow, K. (2025). The superior colliculus. Current Biology, 35(5), R164-R168.](https://www.cell.com/current-biology/abstract/S0960-9822(25)00052-1)
+
 ## Databases of data
 1. [Neuosynth](https://neurosynth.org/)
 2. [Neurosynth-compose](https://compose.neurosynth.org/)
