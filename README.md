@@ -82,6 +82,9 @@ See the articles in a different [list](https://github.com/moomoofarm1/awesome_ne
 9. [Millidge, B., Song, Y., Salvatori, T., Lukasiewicz, T., & Bogacz, R. (2022). A theoretical framework for inference and learning in predictive coding networks. arXiv preprint arXiv:2207.12316.](https://arxiv.org/abs/2207.12316) <i>MLP-based active inference and predictive coding</i>
 10. [Ren, J., & Xia, F. (2024). Brain-inspired Artificial Intelligence: A Comprehensive Review. arXiv preprint arXiv:2408.14811.](https://arxiv.org/abs/2408.14811)
 
+## Neuromath
+1. [Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
+
 ## Neuromorphic computing (cognition synthesis, including non-human species)
 This section draws inspirations from functional circuits in [functional connectomics](https://arxiv.org/abs/2211.12935) research to use artificial neural networks to synthesis the target brain/psychological function. Theoretical underpinning: main functional networks in the brain [Uddin et al., 2019](https://link.springer.com/article/10.1007/s10548-019-00744-6), such as task positive network, and default brain network. The goal is to form a system similar to period table in chemistry to construct target functions?
 From the machine learning community, similar concepts exist: neural modular network, or broader, modular learning. Modular learning is about (from LLM) structuring systems into components that specialize and possibly interact through shared or separate representations; Often, each module learns or uses its own latent representation, or they coordinate via a shared latent space. In the curator's words, latent representation learning such as Lecun's JEPA framework (a path towards autonomous machine intelligence).
