@@ -106,7 +106,9 @@ From the machine learning community, similar concepts exist: neural modular netw
 2. [Pio-Lopez, L., Kuchling, F., Tung, A., Pezzulo, G., & Levin, M. (2022). Active inference, morphogenesis, and computational psychiatry. Frontiers in computational neuroscience, 16, 988977.](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2022.988977/full)
 3. [Powers, A., Angelos, P. A., Bond, A., Farina, E., Fredericks, C., Gandhi, J., ... & Benrimoh, D. (2025). A computational account of the development and evolution of psychotic symptoms. Biological Psychiatry, 97(2), 117-127.](https://www.sciencedirect.com/science/article/pii/S0006322324015841)
 
-
+## MISC-AI notes
+1. [He, H., & Zhong, X. (2018). Learning without external reward [research frontier]. IEEE Computational Intelligence Magazine, 13(3), 48-54.](https://arxiv.org/abs/2505.19590)
+2. [Parthasarathy, V. B., Zafar, A., Khan, A., & Shahid, A. (2024). The ultimate guide to fine-tuning llms from basics to breakthroughs: An exhaustive review of technologies, research, best practices, applied research challenges and opportunities. arXiv preprint arXiv:2408.13296.](https://arxiv.org/abs/2408.13296)
 
 ## Own-contributed tools
 1. [Topics package in R](https://cran.r-project.org/web/packages/topics/index.html)
