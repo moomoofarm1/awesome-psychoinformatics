@@ -64,9 +64,10 @@
 14. [MISC-Math list-Awesome maths resources in neural geometry](https://github.com/moomoofarm1/awesome-neural-geometry)
 
 ## Neural manifold methods (extraction)
-1. [Meilă, M., & Zhang, H. (2024). Manifold learning: What, how, and why. Annual Review of Statistics and Its Application, 11(1), 393-417.](https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-040522-115238?crawler=true)
-2. [Mitchell-Heggs, R., Prado, S., Gava, G. P., Go, M. A., & Schultz, S. R. (2023). Neural manifold analysis of brain circuit dynamics in health and disease. Journal of computational neuroscience, 51(1), 1-21.](https://link.springer.com/article/10.1007/s10827-022-00839-3)
-3. [Stringer, C., & Pachitariu, M. (2024). Analysis methods for large-scale neuronal recordings. Science, 386(6722), eadp7429.](https://www.science.org/doi/10.1126/science.adp7429)
+1. [Li, Y., Michaud, E. J., Baek, D. D., Engels, J., Sun, X., & Tegmark, M. (2025). The geometry of concepts: Sparse autoencoder feature structure. Entropy, 27(4), 344.](https://www.mdpi.com/1099-4300/27/4/344) <i>umap visualization in the embedding space</i>
+2. [Meilă, M., & Zhang, H. (2024). Manifold learning: What, how, and why. Annual Review of Statistics and Its Application, 11(1), 393-417.](https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-040522-115238?crawler=true)
+3. [Mitchell-Heggs, R., Prado, S., Gava, G. P., Go, M. A., & Schultz, S. R. (2023). Neural manifold analysis of brain circuit dynamics in health and disease. Journal of computational neuroscience, 51(1), 1-21.](https://link.springer.com/article/10.1007/s10827-022-00839-3)
+4. [Stringer, C., & Pachitariu, M. (2024). Analysis methods for large-scale neuronal recordings. Science, 386(6722), eadp7429.](https://www.science.org/doi/10.1126/science.adp7429)
 
 ## Neural manifold existence from empirical findings
 See the articles in a different [list](https://github.com/moomoofarm1/awesome_neural_manifolds).
