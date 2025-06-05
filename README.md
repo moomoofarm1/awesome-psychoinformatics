@@ -85,6 +85,7 @@ See the articles in a different [list](https://github.com/moomoofarm1/awesome_ne
 9. [Millidge, B., Salvatori, T., Song, Y., Bogacz, R., & Lukasiewicz, T. (2022). Predictive coding: Towards a future of deep learning beyond backpropagation?. arXiv preprint arXiv:2202.09467.](https://arxiv.org/abs/2202.09467) <i>PCN is equivalent to BP algorithm.</i>
 10. [Millidge, B., Song, Y., Salvatori, T., Lukasiewicz, T., & Bogacz, R. (2022). A theoretical framework for inference and learning in predictive coding networks. arXiv preprint arXiv:2207.12316.](https://arxiv.org/abs/2207.12316) <i>MLP-based active inference and predictive coding</i>
 11. [Ren, J., & Xia, F. (2024). Brain-inspired Artificial Intelligence: A Comprehensive Review. arXiv preprint arXiv:2408.14811.](https://arxiv.org/abs/2408.14811)
+12. [van Zwol, B. Predictive Coding Graphs are a Superset of Feedforward Neural Networks. In The First Workshop on NeuroAI@ NeurIPS2024.](https://openreview.net/forum?id=J36z3R0sNq)
 
 ## Neuromath
 1. [Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
