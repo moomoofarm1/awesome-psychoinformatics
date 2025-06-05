@@ -84,8 +84,9 @@ See the articles in a different [list](https://github.com/moomoofarm1/awesome_ne
 8. [Liu, B., Li, X., Zhang, J., Wang, J., He, T., Hong, S., ... & Wu, C. (2025). Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems. arXiv preprint arXiv:2504.01990.](https://arxiv.org/abs/2504.01990) <i>brain-inspired agents building</i>
 9. [Millidge, B., Salvatori, T., Song, Y., Bogacz, R., & Lukasiewicz, T. (2022). Predictive coding: Towards a future of deep learning beyond backpropagation?. arXiv preprint arXiv:2202.09467.](https://arxiv.org/abs/2202.09467) <i>PCN is equivalent to BP algorithm.</i>
 10. [Millidge, B., Song, Y., Salvatori, T., Lukasiewicz, T., & Bogacz, R. (2022). A theoretical framework for inference and learning in predictive coding networks. arXiv preprint arXiv:2207.12316.](https://arxiv.org/abs/2207.12316) <i>MLP-based active inference and predictive coding</i>
-11. [Ren, J., & Xia, F. (2024). Brain-inspired Artificial Intelligence: A Comprehensive Review. arXiv preprint arXiv:2408.14811.](https://arxiv.org/abs/2408.14811)
-12. [van Zwol, B. Predictive Coding Graphs are a Superset of Feedforward Neural Networks. In The First Workshop on NeuroAI@ NeurIPS2024.](https://openreview.net/forum?id=J36z3R0sNq)
+11. [Rosenbaum, R. (2022). On the relationship between predictive coding and backpropagation. Plos one, 17(3), e0266102.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266102) <i>PCN is similar to BP algorithm.</i>
+12. [Ren, J., & Xia, F. (2024). Brain-inspired Artificial Intelligence: A Comprehensive Review. arXiv preprint arXiv:2408.14811.](https://arxiv.org/abs/2408.14811)
+13. [van Zwol, B. Predictive Coding Graphs are a Superset of Feedforward Neural Networks. In The First Workshop on NeuroAI@ NeurIPS2024.](https://openreview.net/forum?id=J36z3R0sNq)
 
 ## Neuromath
 1. [Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
