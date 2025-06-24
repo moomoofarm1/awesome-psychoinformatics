@@ -114,15 +114,16 @@ From the machine learning community, similar concepts exist: neural modular netw
 
 ## MISC-AI notes
 1. [ALPHA-FACTORY V1: Multi-Agent AGENTIC α-AGI World-Model, Quebec AI in Montreal](https://github.com/MontrealAI/AGI-Alpha-Agent-v0/blob/main/alpha_factory_v1/demos/alpha_asi_world_model/Alpha_ASI_World_Model.pdf)
-2. [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) <i>Deep research, LLM, LangGraph agent</i>
-3. [He, H., & Zhong, X. (2018). Learning without external reward [research frontier]. IEEE Computational Intelligence Magazine, 13(3), 48-54.](https://arxiv.org/abs/2505.19590)
-4. [How ChatGPT Memory Works](https://macro.com/app/md/54115a42-3409-4f5b-9120-f144d3ecd23a)
-5. [Parthasarathy, V. B., Zafar, A., Khan, A., & Shahid, A. (2024). The ultimate guide to fine-tuning llms from basics to breakthroughs: An exhaustive review of technologies, research, best practices, applied research challenges and opportunities. arXiv preprint arXiv:2408.13296.](https://arxiv.org/abs/2408.13296)
-6. [robert-mcdermott/ai-knowledge-graph](https://github.com/robert-mcdermott/ai-knowledge-graph) <i>LLM + knowledge graph</i>
-7. [Salvatori, T., Mali, A., Buckley, C. L., Lukasiewicz, T., Rao, R. P., Friston, K., & Ororbia, A. (2023). Brain-inspired computational intelligence via predictive coding. arXiv preprint arXiv:2308.07870, 13.](https://www.researchgate.net/publication/373142044_Brain-Inspired_Computational_Intelligence_via_Predictive_Coding) <i>Friston, predictive coding network, MNIST</i>
-8. [Wang, Y., Yang, Q., Zeng, Z., Ren, L., Liu, L., Peng, B., ... & Shen, Y. (2025). Reinforcement learning for reasoning in large language models with one training example. arXiv preprint arXiv:2504.20571.](https://arxiv.org/abs/2504.20571)
-9. [Yeo, W., Kim, K., Jeong, S., Baek, J., & Hwang, S. J. (2025). UniversalRAG: Retrieval-Augmented Generation over Multiple Corpora with Diverse Modalities and Granularities. arXiv preprint arXiv:2504.20734.](https://arxiv.org/abs/2504.20734)
-10. [Zheng, K., Chen, Y., Mao, H., Liu, M. Y., Zhu, J., & Zhang, Q. (2024). Masked diffusion models are secretly time-agnostic masked models and exploit inaccurate categorical sampling. arXiv preprint arXiv:2409.02908.](https://www.researchgate.net/publication/383754181_Masked_Diffusion_Models_are_Secretly_Time-Agnostic_Masked_Models_and_Exploit_Inaccurate_Categorical_Sampling)
+2. [Carson, J. D., & Reisizadeh, A. (2025). A Statistical Physics of Language Model Reasoning. arXiv preprint arXiv:2506.04374.](https://arxiv.org/abs/2506.04374)
+3. [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) <i>Deep research, LLM, LangGraph agent</i>
+4. [He, H., & Zhong, X. (2018). Learning without external reward [research frontier]. IEEE Computational Intelligence Magazine, 13(3), 48-54.](https://arxiv.org/abs/2505.19590)
+5. [How ChatGPT Memory Works](https://macro.com/app/md/54115a42-3409-4f5b-9120-f144d3ecd23a)
+6. [Parthasarathy, V. B., Zafar, A., Khan, A., & Shahid, A. (2024). The ultimate guide to fine-tuning llms from basics to breakthroughs: An exhaustive review of technologies, research, best practices, applied research challenges and opportunities. arXiv preprint arXiv:2408.13296.](https://arxiv.org/abs/2408.13296)
+7. [robert-mcdermott/ai-knowledge-graph](https://github.com/robert-mcdermott/ai-knowledge-graph) <i>LLM + knowledge graph</i>
+8. [Salvatori, T., Mali, A., Buckley, C. L., Lukasiewicz, T., Rao, R. P., Friston, K., & Ororbia, A. (2023). Brain-inspired computational intelligence via predictive coding. arXiv preprint arXiv:2308.07870, 13.](https://www.researchgate.net/publication/373142044_Brain-Inspired_Computational_Intelligence_via_Predictive_Coding) <i>Friston, predictive coding network, MNIST</i>
+9. [Wang, Y., Yang, Q., Zeng, Z., Ren, L., Liu, L., Peng, B., ... & Shen, Y. (2025). Reinforcement learning for reasoning in large language models with one training example. arXiv preprint arXiv:2504.20571.](https://arxiv.org/abs/2504.20571)
+10. [Yeo, W., Kim, K., Jeong, S., Baek, J., & Hwang, S. J. (2025). UniversalRAG: Retrieval-Augmented Generation over Multiple Corpora with Diverse Modalities and Granularities. arXiv preprint arXiv:2504.20734.](https://arxiv.org/abs/2504.20734)
+11. [Zheng, K., Chen, Y., Mao, H., Liu, M. Y., Zhu, J., & Zhang, Q. (2024). Masked diffusion models are secretly time-agnostic masked models and exploit inaccurate categorical sampling. arXiv preprint arXiv:2409.02908.](https://www.researchgate.net/publication/383754181_Masked_Diffusion_Models_are_Secretly_Time-Agnostic_Masked_Models_and_Exploit_Inaccurate_Categorical_Sampling)
 
 ## Own-contributed tools
 1. [Topics package in R](https://cran.r-project.org/web/packages/topics/index.html)
