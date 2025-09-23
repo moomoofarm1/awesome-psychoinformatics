@@ -71,7 +71,8 @@
 2. [Meilă, M., & Zhang, H. (2024). Manifold learning: What, how, and why. Annual Review of Statistics and Its Application, 11(1), 393-417.](https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-040522-115238?crawler=true)
 3. [Mitchell-Heggs, R., Prado, S., Gava, G. P., Go, M. A., & Schultz, S. R. (2023). Neural manifold analysis of brain circuit dynamics in health and disease. Journal of computational neuroscience, 51(1), 1-21.](https://link.springer.com/article/10.1007/s10827-022-00839-3)
 4. [Stringer, C., & Pachitariu, M. (2024). Analysis methods for large-scale neuronal recordings. Science, 386(6722), eadp7429.](https://www.science.org/doi/10.1126/science.adp7429)
-5. [Zhang, J., & Hästö, P. (2006). Statistical manifold as an affine space: A functional equation approach. Journal of Mathematical Psychology, 50(1), 60-65.](https://www.sciencedirect.com/science/article/pii/S0022249605000738) <i>The manifold transformed which is easier for mathematical calculation</i>
+5. [Wang, E. Y., Fahey, P. G., Ding, Z., Papadopoulos, S., Ponder, K., Weis, M. A., ... & Tolias, A. S. (2025). Foundation model of neural activity predicts response to new stimulus types. Nature, 640(8058), 470-477.](https://www.nature.com/articles/s41586-025-08829-y) <i>The last layer of the Vision model. Used Gaussian-splatting-like method to model Receptive Field, to extract object (semantic) information.</i>
+6. [Zhang, J., & Hästö, P. (2006). Statistical manifold as an affine space: A functional equation approach. Journal of Mathematical Psychology, 50(1), 60-65.](https://www.sciencedirect.com/science/article/pii/S0022249605000738) <i>The manifold transformed which is easier for mathematical calculation</i>
 
 ## Neural manifold existence from empirical findings
 See the articles in a different [list](https://github.com/moomoofarm1/awesome_neural_manifolds).
