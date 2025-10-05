@@ -110,8 +110,9 @@ From the machine learning community, similar concepts exist: neural modular netw
 7. [Zou, Z., Zhao, R., Wu, Y., Yang, Z., Tian, L., Wu, S., ... & Shi, L. (2020). A hybrid and scalable brain-inspired robotic platform. Scientific reports, 10(1), 18160.](https://www.nature.com/articles/s41598-020-73366-9)
 
 ## Synthetic psychology (machine to form psychological functions, methods only)
-1. [Dawson, M. R. (2002, August). From embodied cognitive science to synthetic psychology. In Proceedings First IEEE International Conference on Cognitive Informatics (pp. 13-22). IEEE.](https://ieeexplore.ieee.org/abstract/document/1039276) <i>foundational work of this field</i>
-2. [Prescott, T. J., & Camilleri, D. (2018). The synthetic psychology of the self. In Cognitive architectures (pp. 85-104). Cham: Springer International Publishing.](https://link.springer.com/chapter/10.1007/978-3-319-97550-4_7)
+1. [Chandra, S., Sharma, S., Chaudhuri, R., & Fiete, I. (2025). Episodic and associative memory from spatial scaffolds in the hippocampus. Nature, 638(8051), 739-751.](https://www.nature.com/articles/s41586-024-08392-y)
+2. [Dawson, M. R. (2002, August). From embodied cognitive science to synthetic psychology. In Proceedings First IEEE International Conference on Cognitive Informatics (pp. 13-22). IEEE.](https://ieeexplore.ieee.org/abstract/document/1039276) <i>foundational work of this field</i>
+3. [Prescott, T. J., & Camilleri, D. (2018). The synthetic psychology of the self. In Cognitive architectures (pp. 85-104). Cham: Springer International Publishing.](https://link.springer.com/chapter/10.1007/978-3-319-97550-4_7)
 
 ## Synthetic psychopathology
 1. [Cao, Z., Xiao, X., Zhao, Y., Jiang, Y., Xie, C., Paillère-Martinot, M. L., ... & Zhu, C. (2023). Targeting the pathological network: Feasibility of network-based optimization of transcranial magnetic stimulation coil placement for treatment of psychiatric disorders. Frontiers in Neuroscience, 16, 1079078.](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.1079078/full)
