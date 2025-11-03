@@ -80,6 +80,7 @@
 See the articles in a different [list](https://github.com/moomoofarm1/awesome_neural_manifolds).
 
 ## Brain-inspired computing (birds-eye view, or Macro-level, i.e., the lobe level)
+This section includes Predictive Coding Network (PCN, i.e., energy-based models) since the PCN is based on the Bayesian Brain Hypothesis which is not a neuromorphic model but a biologically-plausible model.
 1. [Domingos, P. (2012). A few useful things to know about machine learning. Communications of the ACM, 55(10), 78-87.](https://dl.acm.org/doi/abs/10.1145/2347736.2347755)
 2. [Doya, K. (2000). Complementary roles of basal ganglia and cerebellum in learning and motor control. Current opinion in neurobiology, 10(6), 732-739.](https://www.sciencedirect.com/science/article/pii/S0959438800001537)
 3. [Chandra, S., Sharma, S., Chaudhuri, R., & Fiete, I. (2025). Episodic and associative memory from spatial scaffolds in the hippocampus. Nature, 638(8051), 739-751.](https://www.nature.com/articles/s41586-024-08392-y)
@@ -95,7 +96,8 @@ See the articles in a different [list](https://github.com/moomoofarm1/awesome_ne
 13. [Millidge, B., Song, Y., Salvatori, T., Lukasiewicz, T., & Bogacz, R. (2022). A theoretical framework for inference and learning in predictive coding networks. arXiv preprint arXiv:2207.12316.](https://arxiv.org/abs/2207.12316) <i>MLP-based active inference and predictive coding</i>
 14. [Rosenbaum, R. (2022). On the relationship between predictive coding and backpropagation. Plos one, 17(3), e0266102.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266102) <i>PCN is similar to BP algorithm.</i> [Link to the git repo of Torch2PC](https://github.com/RobertRosenbaum/Torch2PC)
 15. [Ren, J., & Xia, F. (2024). Brain-inspired Artificial Intelligence: A Comprehensive Review. arXiv preprint arXiv:2408.14811.](https://arxiv.org/abs/2408.14811)
-16. [van Zwol, B. Predictive Coding Graphs are a Superset of Feedforward Neural Networks. In The First Workshop on NeuroAI@ NeurIPS2024.](https://openreview.net/forum?id=J36z3R0sNq)
+16. [Song, Y., Millidge, B., Salvatori, T., Lukasiewicz, T., Xu, Z., & Bogacz, R. (2024). Inferring neural activity before plasticity as a foundation for learning beyond backpropagation. Nature neuroscience, 27(2), 348-358.](https://www.nature.com/articles/s41593-023-01514-1) <i>Idea: PCN receives signals from LLM; ChatGPT: This shows that if you set PCN weights to the corresponding ANN weights, the PCN produces the same feedforward prediction as the ANN (inputs clamped, outputs free). This is the most explicit top-journal statement enabling an interface: you can map an ANN to a PCN, then (in practice) clamp/top-down seed the PCN with ANN states.</i>
+17. [van Zwol, B. Predictive Coding Graphs are a Superset of Feedforward Neural Networks. In The First Workshop on NeuroAI@ NeurIPS2024.](https://openreview.net/forum?id=J36z3R0sNq)
 
 ## Neuromath
 1. [Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
