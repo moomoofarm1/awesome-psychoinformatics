@@ -106,7 +106,9 @@ This section includes Predictive Coding Network (PCN, i.e., energy-based models)
 22. [Zahid, U., Guo, Q., & Fountas, Z. (2023). Predictive coding as a neuromorphic alternative to backpropagation: a critical evaluation. Neural Computation, 35(12), 1881-1909.](https://direct.mit.edu/neco/article/35/12/1881/117833) <i>cited words: standard formulation … PC … has benefited from its interpretation as a variational Bayes algorithm for learning and inference in latent hierarchical models; one of the strengths of standard PC formulations has historically been … that latents hierarchically higher in the cortex have a non-linearly mixing and modulatory effect … congruent with what we know about cortical anatomy; Comments: these words indicate the benefits of PCN: 1. include uncertainty/probability in hidden states, 2. show the information flow / pipeline explicity according to brain-inspired/brain-like mechanisms.</i>
 
 ## Neuromath
-1. [Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
+also, symbolic regression in clinics
+0. [Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
+1. [La Cava, W. G., Lee, P. C., Ajmal, I., Ding, X., Solanki, P., Cohen, J. B., ... & Herman, D. S. (2023). A flexible symbolic regression method for constructing interpretable clinical prediction models. NPJ Digital Medicine, 6(1), 107.](https://www.nature.com/articles/s41746-023-00833-8)
 
 ## Neuromorphic computing (cognition synthesis, including non-human species)
 This section draws inspirations from functional circuits in [functional connectomics](https://arxiv.org/abs/2211.12935) research to use artificial neural networks to synthesis the target brain/psychological function. Theoretical underpinning: main functional networks in the brain [Uddin et al., 2019](https://link.springer.com/article/10.1007/s10548-019-00744-6), such as task positive network, and default brain network. The goal is to form a system similar to period table in chemistry to construct target functions?
