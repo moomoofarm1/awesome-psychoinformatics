@@ -112,7 +112,8 @@ This section includes Predictive Coding Network (PCN, i.e., energy-based models)
 ## Neuromath
 also, symbolic regression in clinics
 0. [Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
-1. [La Cava, W. G., Lee, P. C., Ajmal, I., Ding, X., Solanki, P., Cohen, J. B., ... & Herman, D. S. (2023). A flexible symbolic regression method for constructing interpretable clinical prediction models. NPJ Digital Medicine, 6(1), 107.](https://www.nature.com/articles/s41746-023-00833-8)
+1. [Bazargani, M. H., Urbas, S., & Friston, K. (2025). Brain in the Dark: Design Principles for Neuromimetic Inference under the Free Energy Principle. arXiv preprint arXiv:2502.08860.](https://arxiv.org/abs/2502.08860) <i>Demistify the FEP to pytorch in the github [repo](https://github.com/MLDawn/PC-network-NeurIPs-2024). </i>
+2. [La Cava, W. G., Lee, P. C., Ajmal, I., Ding, X., Solanki, P., Cohen, J. B., ... & Herman, D. S. (2023). A flexible symbolic regression method for constructing interpretable clinical prediction models. NPJ Digital Medicine, 6(1), 107.](https://www.nature.com/articles/s41746-023-00833-8)
 
 ## Neuromorphic computing (cognition synthesis, including non-human species)
 This section draws inspirations from functional circuits in [functional connectomics](https://arxiv.org/abs/2211.12935) research to use artificial neural networks to synthesis the target brain/psychological function. Theoretical underpinning: main functional networks in the brain [Uddin et al., 2019](https://link.springer.com/article/10.1007/s10548-019-00744-6), such as task positive network, and default brain network. The goal is to form a system similar to period table in chemistry to construct target functions?
