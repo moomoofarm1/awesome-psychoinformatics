@@ -45,6 +45,10 @@
 6. [Pinchetti, L., Qi, C., Lokshyn, O., Olivers, G., Emde, C., Tang, M., ... & Salvatori, T. (2024). Benchmarking Predictive Coding Networks--Made Simple. arXiv preprint arXiv:2407.01163.](https://openreview.net/forum?id=sahQq2sH5x) <i>Scalability issue of predictive coding network compared to BP for deep network; Former learning algorithm is called [Equilibrium Propagation](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2017.00024/full)</i>; <i>Published as a conference paper at ICLR 2025</i>
 7. [van Zwol, B., Jefferson, R., & Broek, E. L. (2024). Predictive Coding Networks and Inference Learning: Tutorial and Survey. arXiv preprint arXiv:2407.04117.](https://arxiv.org/abs/2407.04117) <i>predictive coding network</i>
 
+## Information geometry
+1. [Nielsen, F. (2020). An elementary introduction to information geometry. Entropy, 22(10), 1100.](https://www.mdpi.com/1099-4300/22/10/1100)
+
+
 ## Neural engeineering frameworks
 1. Eliasmith, C. (2005). A unified approach to building and controlling spiking attractor networks. Neural computation, 17(6), 1276-1314. Translationable package: [Nengo](https://www.nengo.ai/)
 
