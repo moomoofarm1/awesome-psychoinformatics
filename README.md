@@ -175,3 +175,8 @@ From the machine learning community, similar concepts exist: neural modular netw
 ### Demographic-level embeddings and databases
 <i>Though from sociology, this might be interesting to social psychologists.</i>
 1. [Savcisens, G., Eliassi-Rad, T., Hansen, L. K., Mortensen, L. H., Lilleholt, L., Rogers, A., ... & Lehmann, S. (2024). Using sequences of life-events to predict human lives. Nature Computational Science, 4(1), 43-56.](https://www.nature.com/articles/s43588-023-00573-5)
+
+### Meme
+1. [Taniguchi, T., Takagi, S., Otsuka, J., Hayashi, Y., & Hamada, H. T. (2025). Collective predictive coding as model of science: Formalizing scientific activities towards generative science. Royal Society Open Science, 12(6), 241678.](https://royalsocietypublishing.org/rsos/article/12/6/241678/235366/Collective-predictive-coding-as-model-of-science) <i>Explain the cultural motive, meme.</i>
+
+
