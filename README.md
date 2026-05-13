@@ -68,9 +68,10 @@
 13. [Li, Y., Michaud, E. J., Baek, D. D., Engels, J., Sun, X., & Tegmark, M. (2024). The Geometry of Concepts: Sparse Autoencoder Feature Structure. arXiv preprint arXiv:2410.19750.](https://arxiv.org/abs/2410.19750) <i>semantic maps also found in the Nature article "[Natural speech reveals the semantic maps that tile human cerebral cortex](https://www.nature.com/articles/nature17637)"</i>
 14. [Spisak, T., & Friston, K. (2025). Self-orthogonalizing attractor neural networks emerging from the free energy principle. arXiv preprint arXiv:2505.22749.](https://arxiv.org/abs/2505.22749) <i>continuous attractor network and free energy principle, FEP, and [the link of the interactive paper plus the code](https://pni-lab.github.io/fep-attractor-network/)</i>
 15. [Perich, M. G., Narain, D., & Gallego, J. A. (2025). A neural manifold view of the brain. Nature Neuroscience, 1-16.](https://www.nature.com/articles/s41593-025-02031-z)
-16. [Tuerlinckx, F. (2024). A geometrical perspective on parametric psychometric models. arXiv preprint arXiv:2410.12450.](https://arxiv.org/abs/2410.12450)
-17. [Whittington, J. C., Muller, T. H., Mark, S., Chen, G., Barry, C., Burgess, N., & Behrens, T. E. (2020). The Tolman-Eichenbaum machine: unifying space and relational memory through generalization in the hippocampal formation. Cell, 183(5), 1249-1263.](https://www.sciencedirect.com/science/article/pii/S009286742031388X)
-18. [MISC-Math list-Awesome maths resources in neural geometry](https://github.com/moomoofarm1/awesome-neural-geometry)
+16. [Peters, M. A., & Asrari, H. A. (2025). How brains build higher order representations of uncertainty. arXiv preprint arXiv:2506.19057.](https://arxiv.org/abs/2506.19057)<i>Uncertainty, higher order representation, manifold; Link to Takens' theorem.</i>
+17. [Tuerlinckx, F. (2024). A geometrical perspective on parametric psychometric models. arXiv preprint arXiv:2410.12450.](https://arxiv.org/abs/2410.12450)
+18. [Whittington, J. C., Muller, T. H., Mark, S., Chen, G., Barry, C., Burgess, N., & Behrens, T. E. (2020). The Tolman-Eichenbaum machine: unifying space and relational memory through generalization in the hippocampal formation. Cell, 183(5), 1249-1263.](https://www.sciencedirect.com/science/article/pii/S009286742031388X)
+19. [MISC-Math list-Awesome maths resources in neural geometry](https://github.com/moomoofarm1/awesome-neural-geometry)
 
 ## Neural manifold methods (extraction)
 1. [Bosl, W. J., Enlow, M. B., & Nelson, C. A. (2025). A dynamical systems framework for precision psychiatry. npj Digital Medicine, 8(1), 586.](https://www.nature.com/articles/s41746-025-01984-6) <i>manifold extraction framework, based on Takens’ Theorem (one of the embedding theorems)</i>
