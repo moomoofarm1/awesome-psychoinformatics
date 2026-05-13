@@ -70,8 +70,9 @@
 15. [Perich, M. G., Narain, D., & Gallego, J. A. (2025). A neural manifold view of the brain. Nature Neuroscience, 1-16.](https://www.nature.com/articles/s41593-025-02031-z)
 16. [Peters, M. A., & Asrari, H. A. (2025). How brains build higher order representations of uncertainty. arXiv preprint arXiv:2506.19057.](https://arxiv.org/abs/2506.19057)<i>Uncertainty, higher order representation, manifold; Link to Takens' theorem.</i>
 17. [Tuerlinckx, F. (2024). A geometrical perspective on parametric psychometric models. arXiv preprint arXiv:2410.12450.](https://arxiv.org/abs/2410.12450)
-18. [Whittington, J. C., Muller, T. H., Mark, S., Chen, G., Barry, C., Burgess, N., & Behrens, T. E. (2020). The Tolman-Eichenbaum machine: unifying space and relational memory through generalization in the hippocampal formation. Cell, 183(5), 1249-1263.](https://www.sciencedirect.com/science/article/pii/S009286742031388X)
-19. [MISC-Math list-Awesome maths resources in neural geometry](https://github.com/moomoofarm1/awesome-neural-geometry)
+18. [WhitneyEmbeddingTheorem](https://leanprover-community.github.io/mathlib4_docs/Mathlib/Geometry/Manifold/WhitneyEmbedding.html) [Strong and Weak version](https://en.wikipedia.org/wiki/Whitney_embedding_theorem) [A Phd thesis in maths about it](https://www.diva-portal.org/smash/get/diva2:735867/FULLTEXT01.pdf) <i>This paves the way  to use Takens' theorem.</i>
+19. [Whittington, J. C., Muller, T. H., Mark, S., Chen, G., Barry, C., Burgess, N., & Behrens, T. E. (2020). The Tolman-Eichenbaum machine: unifying space and relational memory through generalization in the hippocampal formation. Cell, 183(5), 1249-1263.](https://www.sciencedirect.com/science/article/pii/S009286742031388X)
+20. [MISC-Math list-Awesome maths resources in neural geometry](https://github.com/moomoofarm1/awesome-neural-geometry)
 
 ## Neural manifold methods (extraction)
 1. [Bosl, W. J., Enlow, M. B., & Nelson, C. A. (2025). A dynamical systems framework for precision psychiatry. npj Digital Medicine, 8(1), 586.](https://www.nature.com/articles/s41746-025-01984-6) <i>manifold extraction framework, based on Takens’ Theorem (one of the embedding theorems)</i>
