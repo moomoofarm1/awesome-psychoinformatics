@@ -47,6 +47,7 @@
 
 ## Information geometry
 1. [Nielsen, F. (2020). An elementary introduction to information geometry. Entropy, 22(10), 1100.](https://www.mdpi.com/1099-4300/22/10/1100)
+2. [Zumbo, B. D. (2025). From Linear Geometry to Nonlinear and Information-Geometric Settings in Test Theory: Bregman Projections as a Unifying Framework. Educational and Psychological Measurement, 00131644251393483.](https://journals.sagepub.com/doi/full/10.1177/00131644251393483) <i>Information geometry in psychometrics, but for rating scales, not for language-based assessment</i>
 
 
 ## Neural engeineering frameworks
