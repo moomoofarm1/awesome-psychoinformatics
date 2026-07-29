@@ -28,9 +28,10 @@
 5. [Functional Connectome](https://github.com/NotaCS/Functionnectome)
 6. [Disconnectome](http://165.232.73.88/)
 7. [BCBtoolkit](https://storage.googleapis.com/bcblabweb/index.html)
-8. [OpenNeuro](https://openneuro.org/)
-9. [brainlife](https://brainlife.io/about/)
-10. [Clinica](https://aramislab.paris.inria.fr/clinica/docs/public/latest/)
+8. [OpenSyllabusGalaxiy_PsychoSocialMotif_in_onlinebookcitations](https://galaxy.opensyllabus.org/)
+9. [OpenNeuro](https://openneuro.org/)
+10. [brainlife](https://brainlife.io/about/)
+11. [Clinica](https://aramislab.paris.inria.fr/clinica/docs/public/latest/)
 
 ## Databases in theory
 1. [Buckner, R. L., Krienen, F. M., Castellanos, A., Diaz, J. C., & Yeo, B. T. (2011). The organization of the human cerebellum estimated by intrinsic functional connectivity. Journal of neurophysiology, 106(5), 2322-2345.](https://journals.physiology.org/doi/full/10.1152/jn.00339.2011)
