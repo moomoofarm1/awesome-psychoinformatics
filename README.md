@@ -18,7 +18,9 @@
 
 ## Connectome & functional connectome papers
 1. [Hoy, J. L., & Farrow, K. (2025). The superior colliculus. Current Biology, 35(5), R164-R168.](https://www.cell.com/current-biology/abstract/S0960-9822(25)00052-1)
-2. [O8t brain connectomee guide, an australian company](https://www.o8t.com/connectomeguide) <i> The guide has been adapted from 'A Connectomic Atlas of the Human Cerebrum' [Briggs et al, 2018](https://journals.lww.com/onsonline/abstract/10.1093/ons/opy253~a-connectomic-atlas-of-the-human-cerebrumchapter-1?redirectionsource=fulltextview). (Baker, C. M., Burks, J. D., Briggs, R. G., Conner, A. K., Glenn, C. A., Sali, G., ... & Sughrue, M. E. (2018). A connectomic atlas of the human cerebrum—Chapter 1: Introduction, methods, and significance. Operative Neurosurgery, 15(suppl_1), S1-S9.)</i>
+2.
+3. [Soleimani, G., Nitsche, M. A., Hanlon, C. A., Lim, K. O., Opitz, A., & Ekhtiari, H. (2025). Four dimensions of individualization in brain stimulation for psychiatric disorders: context, target, dose, and timing. Neuropsychopharmacology, 50(6), 857-870.](https://www.nature.com/articles/s41386-025-02094-3) <i>Personalization of repetitive TMS; FDA认可的重复序列经颅磁刺激。</i>
+4. [O8t brain connectomee guide, an australian company](https://www.o8t.com/connectomeguide) <i> The guide has been adapted from 'A Connectomic Atlas of the Human Cerebrum' [Briggs et al, 2018](https://journals.lww.com/onsonline/abstract/10.1093/ons/opy253~a-connectomic-atlas-of-the-human-cerebrumchapter-1?redirectionsource=fulltextview). (Baker, C. M., Burks, J. D., Briggs, R. G., Conner, A. K., Glenn, C. A., Sali, G., ... & Sughrue, M. E. (2018). A connectomic atlas of the human cerebrum—Chapter 1: Introduction, methods, and significance. Operative Neurosurgery, 15(suppl_1), S1-S9.)</i>
 
 ## Databases of data
 1. [Neuosynth](https://neurosynth.org/)
