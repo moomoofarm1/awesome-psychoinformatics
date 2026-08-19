@@ -162,7 +162,7 @@ From the machine learning community, similar concepts exist: neural modular netw
 
 ## MISC-AI notes
 1. [ALPHA-FACTORY V1: Multi-Agent AGENTIC α-AGI World-Model, Quebec AI in Montreal](https://github.com/MontrealAI/AGI-Alpha-Agent-v0/blob/main/alpha_factory_v1/demos/alpha_asi_world_model/Alpha_ASI_World_Model.pdf)
-2. [Bambini, V., Frau, F., Bischetti, L., Cuoco, F., Bechi, M., Buonocore, M., ... & Bosia, M. (2022). Deconstructing heterogeneity in schizophrenia through language: a semi-automated linguistic analysis and data-driven clustering approach. Schizophrenia, 8(1), 102.](https://www.nature.com/articles/s41537-022-00306-z) <i>NLP LLM and psychometrics.</i>
+2. [Bambini, V., Frau, F., Bischetti, L., Cuoco, F., Bechi, M., Buonocore, M., ... & Bosia, M. (2022). Deconstructing heterogeneity in schizophrenia through language: a semi-automated linguistic analysis and data-driven clustering approach. Schizophrenia, 8(1), 102.](https://www.nature.com/articles/s41537-022-00306-z) <i>NLP LLM and psychometrics in psychiatry and medicine.</i>
 3. [Carson, J. D., & Reisizadeh, A. (2025). A Statistical Physics of Language Model Reasoning. arXiv preprint arXiv:2506.04374.](https://arxiv.org/abs/2506.04374)
 4. [Friston, K. J., Ramstead, M. J., & Sakthivadivel, D. A. (2024). A framework for the use of generative modelling in non-equilibrium statistical mechanics. arXiv preprint arXiv:2406.11630.](https://arxiv.org/abs/2406.11630) <i>Friston, active inference</i>
 5. [GitZH-Chen awesome riemanian deep learning](https://github.com/GitZH-Chen/Awesome-Riemannian-Deep-Learning)
