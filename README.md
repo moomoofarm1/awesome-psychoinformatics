@@ -226,6 +226,7 @@ From the machine learning community, similar concepts exist: neural modular netw
 27. [Xue, C., Liu, W., Xie, S., Wang, Z., Li, J., Peng, X., ... & Tao, D. (2025). Omniforce: on human-centered, large model empowered and cloud-edge collaborative AutoML system. npj Artificial Intelligence, 1(1), 3.](https://www.nature.com/articles/s44387-025-00002-0)
 28. [Yeo, W., Kim, K., Jeong, S., Baek, J., & Hwang, S. J. (2025). UniversalRAG: Retrieval-Augmented Generation over Multiple Corpora with Diverse Modalities and Granularities. arXiv preprint arXiv:2504.20734.](https://arxiv.org/abs/2504.20734)
 29. [Zheng, K., Chen, Y., Mao, H., Liu, M. Y., Zhu, J., & Zhang, Q. (2024). Masked diffusion models are secretly time-agnostic masked models and exploit inaccurate categorical sampling. arXiv preprint arXiv:2409.02908.](https://www.researchgate.net/publication/383754181_Masked_Diffusion_Models_are_Secretly_Time-Agnostic_Masked_Models_and_Exploit_Inaccurate_Categorical_Sampling)
+30. [Zavlis, O., Story, G., Friedrich, C., Fonagy, P., & Moutoussis, M. (2025). A systematic review of computational modeling of interpersonal dynamics in psychopathology. Nature Mental Health, 3(8), 932-942.](https://www.nature.com/articles/s44220-025-00465-9) <i>Computational approach of psychotherapy interactions, one being the dynamic systems</i>
 
 ## Own-contributed tools
 1. [Topics package in R](https://cran.r-project.org/web/packages/topics/index.html)
