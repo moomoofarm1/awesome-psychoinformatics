@@ -142,7 +142,14 @@ This section includes Predictive Coding Network (PCN, i.e., energy-based models)
 
 ## Information geometry
 1. [Nielsen, F. (2020). An elementary introduction to information geometry. Entropy, 22(10), 1100.](https://www.mdpi.com/1099-4300/22/10/1100)
-2. [Zumbo, B. D. (2025). From Linear Geometry to Nonlinear and Information-Geometric Settings in Test Theory: Bregman Projections as a Unifying Framework. Educational and Psychological Measurement, 00131644251393483.](https://journals.sagepub.com/doi/full/10.1177/00131644251393483) <i>Information geometry in psychometrics, but for rating scales, not for language-based assessment</i>
+2. [Tuerlinckx, F., & Robledo, H. (2026). Geodesic ability in unidimensional IRT models: A geometric perspective on parametrization invariance. Psychometrika, 1-15.](https://www.cambridge.org/core/journals/psychometrika/article/geodesic-ability-in-unidimensional-irt-models-a-geometric-perspective-on-parametrization-invariance/7EC1E1CA6D289F5581CCA5C884D95077) <i>It directly links information geometry with traditional psychometric models.
+The authors point out that for the same set of test data—even if predicted response probabilities remain identical—the interpretation of the "difference in ability between two students" can change simply by altering how the latent ability scale is represented.
+They introduce Fisher–Rao geometry in an attempt to establish a method of measuring ability that does not rely on arbitrary coordinate scales; they term this "Geodesic Ability."
+In layman's terms:
+Historically, psychometrics focused primarily on an individual's score. Now, researchers are asking a further question:
+Do the distances between scores hold any inherent meaning that is independent of artificial scales?
+As this paper presents a newly published theoretical finding, its significance should not lead one to mistakenly classify it as a classic work that has already garnered widespread citation or extensive validation.</i>
+3. [Zumbo, B. D. (2025). From Linear Geometry to Nonlinear and Information-Geometric Settings in Test Theory: Bregman Projections as a Unifying Framework. Educational and Psychological Measurement, 00131644251393483.](https://journals.sagepub.com/doi/full/10.1177/00131644251393483) <i>Information geometry in psychometrics, but for rating scales, not for language-based assessment</i>
 
 
 ## MISC-AI notes
